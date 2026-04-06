@@ -16,7 +16,3 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a></p>
 <h2>Stats</h2>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ownerdisk&show_icons=true&locale=en" alt="ownerdisk" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ownerdisk&show_icons=true&locale=en&layout=compact" alt="ownerdisk" /></p>
-
